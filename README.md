@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/canyouhack-org/steg-cli/stargazers"><img src="https://img.shields.io/github/stars/canyouhack-org/steg-cli?style=flat&color=9aff00&labelColor=0d0d0d" alt="Stars"></a>
-  <a href="https://github.com/canyouhack-org/steg-cli/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-9aff00?labelColor=0d0d0d" alt="License"></a>
-  <a href="https://github.com/canyouhack-org/steg-cli"><img src="https://img.shields.io/badge/tools-17-9aff00?labelColor=0d0d0d" alt="Tools"></a>
-  <a href="https://github.com/canyouhack-org/steg-cli"><img src="https://img.shields.io/badge/platform-linux-9aff00?labelColor=0d0d0d" alt="Platform"></a>
+  <a href="https://github.com/canyouhack-org/cyh-steg-cli/stargazers"><img src="https://img.shields.io/github/stars/canyouhack-org/cyh-steg-cli?style=flat&color=9aff00&labelColor=0d0d0d" alt="Stars"></a>
+  <a href="https://github.com/canyouhack-org/cyh-steg-cli/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-9aff00?labelColor=0d0d0d" alt="License"></a>
+  <a href="https://github.com/canyouhack-org/cyh-steg-cli"><img src="https://img.shields.io/badge/tools-17-9aff00?labelColor=0d0d0d" alt="Tools"></a>
+  <a href="https://github.com/canyouhack-org/cyh-steg-cli"><img src="https://img.shields.io/badge/platform-linux-9aff00?labelColor=0d0d0d" alt="Platform"></a>
 </p>
 
 # CanYouHack Steg
@@ -128,8 +128,8 @@ $ steg scan secret.png
 Clone the repository. A pre-built Linux binary is included.
 
 ```bash
-git clone https://github.com/canyouhack-org/steg-cli.git
-cd steg-cli
+git clone https://github.com/canyouhack-org/cyh-steg-cli
+cd cyh-steg-cli
 ```
 
 ### Linux
@@ -199,7 +199,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contributing
 
-Found a bug? Want to add another tool? Open an issue or submit a pull request on [GitHub](https://github.com/canyouhack-org/steg-cli).
+Found a bug? Want to add another tool? Open an issue or submit a pull request on [GitHub](https://github.com/canyouhack-org/cyh-steg-cli).
 
 ---
 
